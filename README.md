@@ -25,6 +25,22 @@ The data (country vaccinations) contains the following information:
 
 Questions:
 
-1) Which country is using what vaccine?
+1) Which country is using what type vaccine?
 
 ![image](https://user-images.githubusercontent.com/82351782/114599929-9c5f4600-9c48-11eb-9d2c-a955c1020ff6.png)
+
+2) In which country the vaccination program is more advanced?
+<img width="1440" alt="Screen Shot 2021-04-13 at 11 39 56 AM" src="https://user-images.githubusercontent.com/82351782/114603852-11cd1580-9c4d-11eb-8282-8cc319fb791c.png">
+
+3) Where are more people vaccinated per day in terms of percentage from entire population?
+<img width="1440" alt="Screen Shot 2021-04-13 at 11 41 59 AM" src="https://user-images.githubusercontent.com/82351782/114604061-58227480-9c4d-11eb-9684-6903c06a8bd8.png">
+
+4) Where are more people daily vaccinated per million?
+<img width="1440" alt="Screen Shot 2021-04-13 at 11 44 09 AM" src="https://user-images.githubusercontent.com/82351782/114604372-a8013b80-9c4d-11eb-9591-d3b824bd8b8e.png">
+
+5) Which country has highest percentage of people fully immunised to total population?
+<img width="1440" alt="Screen Shot 2021-04-13 at 11 46 22 AM" src="https://user-images.githubusercontent.com/82351782/114604600-f0205e00-9c4d-11eb-8362-59787df93d47.png">
+
+6)In which month were the number of vaccinations highest?
+<img width="1440" alt="Screen Shot 2021-04-13 at 11 47 45 AM" src="https://user-images.githubusercontent.com/82351782/114604733-1e05a280-9c4e-11eb-88e5-e2ab14cc9d3d.png">
+
